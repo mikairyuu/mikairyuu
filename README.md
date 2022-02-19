@@ -7,4 +7,4 @@ I like messing around with android roms and kernels, but actually with nearly ev
 
 [![mikairyuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikairyuu&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![mikairyuu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mikairyuu)](https://github.com/anuraghazra/github-readme-stats)
+[![mikairyuu's Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikairyuu&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
