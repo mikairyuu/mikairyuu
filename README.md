@@ -1,7 +1,9 @@
 ### Hi there 👋, I am mikairyuu
 
 I like messing around with android roms and kernels, but actually with nearly everything in IT
+
 I specialize in Kotlin, Jetpack Compose and Flutter development
+
 Devoted Linux & open source follower 
 
 ![mikairyuu's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikairyuu&theme=vue)
